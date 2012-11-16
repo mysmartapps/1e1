@@ -1,0 +1,19 @@
+#top-link{
+	cursor:pointer;
+	display:none;
+	position:fixed;
+	left:0px;
+	bottom:0px;
+/* прилепим кнопку к нижней части страницы,
+то, что в вконтакте она сверху, это ИМХО бред */
+	padding-left:5px;
+	padding-bottom:5px;
+	z-index:1;
+}
+#top-link a{
+	display:block;
+}
+.veryhidden{
+	position: absolute !important;
+	left:-5555px !important;
+}

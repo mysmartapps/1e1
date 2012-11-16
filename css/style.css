@@ -1,0 +1,16 @@
+#wrapper {margin-left: 20px; margin-top: 40px;}
+#isay img{
+	float:left;
+
+	}
+#isay #itxt {
+	max-width:600px;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:180px;
+	padding:10px;
+	border:1px solid #000;
+	border-radius:4px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	}
+.clr {clear: both;}
